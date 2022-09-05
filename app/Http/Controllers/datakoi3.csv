@@ -1,0 +1,401 @@
+﻿Jenis Ikan;Ukuran;Gender;Umur;Jumlah Corak;Corak Dominan;Spesifikasi;Harga
+Chagoi;11;Male;Dibawah 1 tahun;2;Putih dan Hitam/Merah;Local;8000
+Chagoi;12;Male;Dibawah 1 tahun;2;Putih dan Hitam/Merah;Local;10000
+Chagoi;13;Male;Dibawah 1 tahun;2;Putih dan Hitam/Merah;Local;12200
+Chagoi;14;Male;Dibawah 1 tahun;2;Putih dan Hitam/Merah;Local;14000
+Chagoi;15;Male;Dibawah 1 tahun;2;Putih dan Hitam/Merah;Local;16000
+Chagoi;16;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;20200
+Chagoi;17;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;25000
+Chagoi;18;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;30000
+Chagoi;19;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;35000
+Chagoi;20;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;40000
+Chagoi;21;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;50000
+Chagoi;22;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;60000
+Chagoi;23;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;65000
+Chagoi;24;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;75000
+Chagoi;25;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;90000
+Chagoi;26;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;100000
+Chagoi;27;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;110000
+Chagoi;28;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;120000
+Chagoi;29;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;130000
+Chagoi;30;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;140000
+Chagoi;31;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;150000
+Chagoi;32;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;180000
+Chagoi;33;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;200000
+Chagoi;34;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;220000
+Chagoi;35;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;250000
+Chagoi;36;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;300000
+Chagoi;37;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;400000
+Chagoi;38;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;450000
+Chagoi;39;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;500000
+Chagoi;40;Male;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;700000
+Chagoi;41;Male;Diatas 3 Tahun;2;Putih dan Hitam/Merah;Local;750000
+Chagoi;42;Male;Diatas 3 Tahun;2;Putih dan Hitam/Merah;Local;800000
+Chagoi;43;Male;Diatas 3 Tahun;2;Putih dan Hitam/Merah;Local;850000
+Chagoi;44;Male;Diatas 3 Tahun;2;Putih dan Hitam/Merah;Local;900000
+Chagoi;45;Male;Diatas 3 Tahun;2;Putih dan Hitam/Merah;Local;925000
+Chagoi;46;Male;Diatas 3 Tahun;2;Putih dan Hitam/Merah;Local;950000
+Chagoi;47;Male;Diatas 3 Tahun;2;Putih dan Hitam/Merah;Local;1000000
+Chagoi;48;Male;Diatas 3 Tahun;2;Putih dan Hitam/Merah;Local;1200000
+Chagoi;49;Male;Diatas 3 Tahun;2;Putih dan Hitam/Merah;Local;1400000
+Chagoi;50;Male;Diatas 3 Tahun;2;Putih dan Hitam/Merah;Local;1500000
+Goromo;11;Male;Dibawah 1 tahun;2;Merah dan Putih;Local;8200
+Goromo;12;Male;Dibawah 1 tahun;2;Merah dan Putih;Local;10300
+Goromo;13;Male;Dibawah 1 tahun;2;Merah dan Putih;Local;12700
+Goromo;14;Male;Dibawah 1 tahun;2;Merah dan Putih;Local;14200
+Goromo;15;Male;Dibawah 1 tahun;2;Merah dan Putih;Local;16300
+Goromo;16;Male;1 - 3 Tahun;2;Merah dan Putih;Local;20700
+Goromo;17;Male;1 - 3 Tahun;2;Merah dan Putih;Local;26000
+Goromo;18;Male;1 - 3 Tahun;2;Merah dan Putih;Local;31000
+Goromo;19;Male;1 - 3 Tahun;2;Merah dan Putih;Local;36000
+Goromo;20;Male;1 - 3 Tahun;2;Merah dan Putih;Local;42000
+Goromo;21;Male;1 - 3 Tahun;2;Merah dan Putih;Local;52000
+Goromo;22;Male;1 - 3 Tahun;2;Merah dan Putih;Local;61000
+Goromo;23;Male;1 - 3 Tahun;2;Merah dan Putih;Local;67000
+Goromo;24;Male;1 - 3 Tahun;2;Merah dan Putih;Local;77000
+Goromo;25;Male;1 - 3 Tahun;2;Merah dan Putih;Local;92000
+Goromo;26;Male;1 - 3 Tahun;2;Merah dan Putih;Local;102000
+Goromo;27;Male;1 - 3 Tahun;2;Merah dan Putih;Local;112000
+Goromo;28;Male;1 - 3 Tahun;2;Merah dan Putih;Local;122000
+Goromo;29;Male;1 - 3 Tahun;2;Merah dan Putih;Local;132000
+Goromo;30;Male;1 - 3 Tahun;2;Merah dan Putih;Local;142000
+Goromo;31;Male;1 - 3 Tahun;2;Merah dan Putih;Local;156000
+Goromo;32;Male;1 - 3 Tahun;2;Merah dan Putih;Local;184000
+Goromo;33;Male;1 - 3 Tahun;2;Merah dan Putih;Local;204000
+Goromo;34;Male;1 - 3 Tahun;2;Merah dan Putih;Local;226000
+Goromo;35;Male;1 - 3 Tahun;2;Merah dan Putih;Local;260000
+Goromo;36;Male;1 - 3 Tahun;2;Merah dan Putih;Local;320000
+Goromo;37;Male;1 - 3 Tahun;2;Merah dan Putih;Local;410000
+Goromo;38;Male;1 - 3 Tahun;2;Merah dan Putih;Local;460000
+Goromo;39;Male;1 - 3 Tahun;2;Merah dan Putih;Local;540000
+Goromo;40;Male;1 - 3 Tahun;2;Merah dan Putih;Local;710000
+Goromo;41;Male;Diatas 3 Tahun;2;Merah dan Putih;Local;760000
+Goromo;42;Male;Diatas 3 Tahun;2;Merah dan Putih;Local;810000
+Goromo;43;Male;Diatas 3 Tahun;2;Merah dan Putih;Local;860000
+Goromo;44;Male;Diatas 3 Tahun;2;Merah dan Putih;Local;908000
+Goromo;45;Male;Diatas 3 Tahun;2;Merah dan Putih;Local;930000
+Goromo;46;Male;Diatas 3 Tahun;2;Merah dan Putih;Local;960000
+Goromo;47;Male;Diatas 3 Tahun;2;Merah dan Putih;Local;1040000
+Goromo;48;Male;Diatas 3 Tahun;2;Merah dan Putih;Local;1240000
+Goromo;49;Male;Diatas 3 Tahun;2;Merah dan Putih;Local;1420000
+Goromo;50;Male;Diatas 3 Tahun;2;Merah dan Putih;Local;1520000
+Kohaku;11;Male;Dibawah 1 tahun;3;Merah, Hitam dan Putih;Local;8400
+Kohaku;12;Male;Dibawah 1 tahun;3;Merah, Hitam dan Putih;Local;10800
+Kohaku;13;Male;Dibawah 1 tahun;3;Merah, Hitam dan Putih;Local;13000
+Kohaku;14;Male;Dibawah 1 tahun;3;Merah, Hitam dan Putih;Local;14400
+Kohaku;15;Male;Dibawah 1 tahun;3;Merah, Hitam dan Putih;Local;16800
+Kohaku;16;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;23000
+Kohaku;17;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;27000
+Kohaku;18;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;32000
+Kohaku;19;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;37000
+Kohaku;20;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;44000
+Kohaku;21;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;54000
+Kohaku;22;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;62000
+Kohaku;23;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;69000
+Kohaku;24;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;79000
+Kohaku;25;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;94000
+Kohaku;26;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;104000
+Kohaku;27;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;114000
+Kohaku;28;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;124000
+Kohaku;29;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;134000
+Kohaku;30;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;144000
+Kohaku;31;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;162000
+Kohaku;32;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;188000
+Kohaku;33;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;208000
+Kohaku;34;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;232000
+Kohaku;35;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;270000
+Kohaku;36;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;340000
+Kohaku;37;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;420000
+Kohaku;38;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;470000
+Kohaku;39;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;580000
+Kohaku;40;Male;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;720000
+Kohaku;41;Male;Diatas 3 Tahun;3;Merah, Hitam dan Putih;Local;770000
+Kohaku;42;Male;Diatas 3 Tahun;3;Merah, Hitam dan Putih;Local;820000
+Kohaku;43;Male;Diatas 3 Tahun;3;Merah, Hitam dan Putih;Local;870000
+Kohaku;44;Male;Diatas 3 Tahun;3;Merah, Hitam dan Putih;Local;913000
+Kohaku;45;Male;Diatas 3 Tahun;3;Merah, Hitam dan Putih;Local;936000
+Kohaku;46;Male;Diatas 3 Tahun;3;Merah, Hitam dan Putih;Local;970000
+Kohaku;47;Male;Diatas 3 Tahun;3;Merah, Hitam dan Putih;Local;1080000
+Kohaku;48;Male;Diatas 3 Tahun;3;Merah, Hitam dan Putih;Local;1280000
+Kohaku;49;Male;Diatas 3 Tahun;3;Merah, Hitam dan Putih;Local;1440000
+Kohaku;50;Male;Diatas 3 Tahun;3;Merah, Hitam dan Putih;Local;1540000
+Platinum;11;Male;Dibawah 1 tahun;2;Kepala Merah;Local;8600
+Platinum;12;Male;Dibawah 1 tahun;2;Kepala Merah;Local;11200
+Platinum;13;Male;Dibawah 1 tahun;2;Kepala Merah;Local;13400
+Platinum;14;Male;Dibawah 1 tahun;2;Kepala Merah;Local;14600
+Platinum;15;Male;Dibawah 1 tahun;2;Kepala Merah;Local;18200
+Platinum;16;Male;1 - 3 Tahun;2;Kepala Merah;Local;23400
+Platinum;17;Male;1 - 3 Tahun;2;Kepala Merah;Local;28000
+Platinum;18;Male;1 - 3 Tahun;2;Kepala Merah;Local;33000
+Platinum;19;Male;1 - 3 Tahun;2;Kepala Merah;Local;38000
+Platinum;20;Male;1 - 3 Tahun;2;Kepala Merah;Local;46000
+Platinum;21;Male;1 - 3 Tahun;2;Kepala Merah;Local;56000
+Platinum;22;Male;1 - 3 Tahun;2;Kepala Merah;Local;63000
+Platinum;23;Male;1 - 3 Tahun;2;Kepala Merah;Local;71000
+Platinum;24;Male;1 - 3 Tahun;2;Kepala Merah;Local;81000
+Platinum;25;Male;1 - 3 Tahun;2;Kepala Merah;Local;96000
+Platinum;26;Male;1 - 3 Tahun;2;Kepala Merah;Local;106000
+Platinum;27;Male;1 - 3 Tahun;2;Kepala Merah;Local;116000
+Platinum;28;Male;1 - 3 Tahun;2;Kepala Merah;Local;126000
+Platinum;29;Male;1 - 3 Tahun;2;Kepala Merah;Local;136000
+Platinum;30;Male;1 - 3 Tahun;2;Kepala Merah;Local;146000
+Platinum;31;Male;1 - 3 Tahun;2;Kepala Merah;Local;168000
+Platinum;32;Male;1 - 3 Tahun;2;Kepala Merah;Local;192000
+Platinum;33;Male;1 - 3 Tahun;2;Kepala Merah;Local;212000
+Platinum;34;Male;1 - 3 Tahun;2;Kepala Merah;Local;238000
+Platinum;35;Male;1 - 3 Tahun;2;Kepala Merah;Local;280000
+Platinum;36;Male;1 - 3 Tahun;2;Kepala Merah;Local;360000
+Platinum;37;Male;1 - 3 Tahun;2;Kepala Merah;Local;430000
+Platinum;38;Male;1 - 3 Tahun;2;Kepala Merah;Local;480000
+Platinum;39;Male;1 - 3 Tahun;2;Kepala Merah;Local;620000
+Platinum;40;Male;1 - 3 Tahun;2;Kepala Merah;Local;730000
+Platinum;41;Male;Diatas 3 Tahun;2;Kepala Merah;Local;780000
+Platinum;42;Male;Diatas 3 Tahun;2;Kepala Merah;Local;830000
+Platinum;43;Male;Diatas 3 Tahun;2;Kepala Merah;Local;880000
+Platinum;44;Male;Diatas 3 Tahun;2;Kepala Merah;Local;918000
+Platinum;45;Male;Diatas 3 Tahun;2;Kepala Merah;Local;942000
+Platinum;46;Male;Diatas 3 Tahun;2;Kepala Merah;Local;980000
+Platinum;47;Male;Diatas 3 Tahun;2;Kepala Merah;Local;1120000
+Platinum;48;Male;Diatas 3 Tahun;2;Kepala Merah;Local;1320000
+Platinum;49;Male;Diatas 3 Tahun;2;Kepala Merah;Local;1460000
+Platinum;50;Male;Diatas 3 Tahun;2;Kepala Merah;Local;1560000
+Sanke;11;Male;Dibawah 1 tahun;2;Hitam dan Putih;Local;8800
+Sanke;12;Male;Dibawah 1 tahun;2;Hitam dan Putih;Local;11600
+Sanke;13;Male;Dibawah 1 tahun;2;Hitam dan Putih;Local;13800
+Sanke;14;Male;Dibawah 1 tahun;2;Hitam dan Putih;Local;14800
+Sanke;15;Male;Dibawah 1 tahun;2;Hitam dan Putih;Local;18600
+Sanke;16;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;23800
+Sanke;17;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;29000
+Sanke;18;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;34000
+Sanke;19;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;39000
+Sanke;20;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;48000
+Sanke;21;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;58000
+Sanke;22;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;64000
+Sanke;23;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;73000
+Sanke;24;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;83000
+Sanke;25;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;98000
+Sanke;26;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;108000
+Sanke;27;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;118000
+Sanke;28;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;128000
+Sanke;29;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;138000
+Sanke;30;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;148000
+Sanke;31;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;174000
+Sanke;32;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;196000
+Sanke;33;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;216000
+Sanke;34;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;244000
+Sanke;35;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;290000
+Sanke;36;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;380000
+Sanke;37;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;440000
+Sanke;38;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;490000
+Sanke;39;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;660000
+Sanke;40;Male;1 - 3 Tahun;2;Hitam dan Putih;Local;740000
+Sanke;41;Male;Diatas 3 Tahun;2;Hitam dan Putih;Local;790000
+Sanke;42;Male;Diatas 3 Tahun;2;Hitam dan Putih;Local;840000
+Sanke;43;Male;Diatas 3 Tahun;2;Hitam dan Putih;Local;890000
+Sanke;44;Male;Diatas 3 Tahun;2;Hitam dan Putih;Local;923000
+Sanke;45;Male;Diatas 3 Tahun;2;Hitam dan Putih;Local;946000
+Sanke;46;Male;Diatas 3 Tahun;2;Hitam dan Putih;Local;990000
+Sanke;47;Male;Diatas 3 Tahun;2;Hitam dan Putih;Local;1160000
+Sanke;48;Male;Diatas 3 Tahun;2;Hitam dan Putih;Local;1360000
+Sanke;49;Male;Diatas 3 Tahun;2;Hitam dan Putih;Local;1480000
+Sanke;50;Male;Diatas 3 Tahun;2;Hitam dan Putih;Local;1580000
+Shiro;11;Female;Dibawah 1 tahun;2;Putih dan Hitam/Merah;Local;8500
+Shiro;12;Female;Dibawah 1 tahun;2;Putih dan Hitam/Merah;Local;10500
+Shiro;13;Female;Dibawah 1 tahun;2;Putih dan Hitam/Merah;Local;12500
+Shiro;14;Female;Dibawah 1 tahun;2;Putih dan Hitam/Merah;Local;14500
+Shiro;15;Female;Dibawah 1 tahun;2;Putih dan Hitam/Merah;Local;16500
+Shiro;16;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;20500
+Shiro;17;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;25500
+Shiro;18;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;30500
+Shiro;19;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;35500
+Shiro;20;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;41000
+Shiro;21;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;51000
+Shiro;22;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;60500
+Shiro;23;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;66000
+Shiro;24;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;76000
+Shiro;25;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;91000
+Shiro;26;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;101000
+Shiro;27;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;111000
+Shiro;28;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;121000
+Shiro;29;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;131000
+Shiro;30;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;141000
+Shiro;31;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;153000
+Shiro;32;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;182000
+Shiro;33;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;202000
+Shiro;34;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;223000
+Shiro;35;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;255000
+Shiro;36;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;310000
+Shiro;37;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;405000
+Shiro;38;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;455000
+Shiro;39;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;520000
+Shiro;40;Female;1 - 3 Tahun;2;Putih dan Hitam/Merah;Local;705000
+Shiro;41;Female;Diatas 3 Tahun;2;Putih dan Hitam/Merah;Local;755000
+Shiro;42;Female;Diatas 3 Tahun;2;Putih dan Hitam/Merah;Local;805000
+Shiro;43;Female;Diatas 3 Tahun;2;Putih dan Hitam/Merah;Local;855000
+Shiro;44;Female;Diatas 3 Tahun;2;Putih dan Hitam/Merah;Local;905000
+Shiro;45;Female;Diatas 3 Tahun;2;Putih dan Hitam/Merah;Local;928000
+Shiro;46;Female;Diatas 3 Tahun;2;Putih dan Hitam/Merah;Local;955000
+Shiro;47;Female;Diatas 3 Tahun;2;Putih dan Hitam/Merah;Local;1020000
+Shiro;48;Female;Diatas 3 Tahun;2;Putih dan Hitam/Merah;Local;1220000
+Shiro;49;Female;Diatas 3 Tahun;2;Putih dan Hitam/Merah;Local;1410000
+Shiro;50;Female;Diatas 3 Tahun;2;Putih dan Hitam/Merah;Local;1510000
+Showa;11;Female;Dibawah 1 tahun;2;Merah dan Putih;Local;8300
+Showa;12;Female;Dibawah 1 tahun;2;Merah dan Putih;Local;10700
+Showa;13;Female;Dibawah 1 tahun;2;Merah dan Putih;Local;12800
+Showa;14;Female;Dibawah 1 tahun;2;Merah dan Putih;Local;14300
+Showa;15;Female;Dibawah 1 tahun;2;Merah dan Putih;Local;16700
+Showa;16;Female;1 - 3 Tahun;2;Merah dan Putih;Local;20800
+Showa;17;Female;1 - 3 Tahun;2;Merah dan Putih;Local;26500
+Showa;18;Female;1 - 3 Tahun;2;Merah dan Putih;Local;31500
+Showa;19;Female;1 - 3 Tahun;2;Merah dan Putih;Local;36500
+Showa;20;Female;1 - 3 Tahun;2;Merah dan Putih;Local;43000
+Showa;21;Female;1 - 3 Tahun;2;Merah dan Putih;Local;53000
+Showa;22;Female;1 - 3 Tahun;2;Merah dan Putih;Local;61500
+Showa;23;Female;1 - 3 Tahun;2;Merah dan Putih;Local;68000
+Showa;24;Female;1 - 3 Tahun;2;Merah dan Putih;Local;78000
+Showa;25;Female;1 - 3 Tahun;2;Merah dan Putih;Local;93000
+Showa;26;Female;1 - 3 Tahun;2;Merah dan Putih;Local;103000
+Showa;27;Female;1 - 3 Tahun;2;Merah dan Putih;Local;113000
+Showa;28;Female;1 - 3 Tahun;2;Merah dan Putih;Local;123000
+Showa;29;Female;1 - 3 Tahun;2;Merah dan Putih;Local;133000
+Showa;30;Female;1 - 3 Tahun;2;Merah dan Putih;Local;143000
+Showa;31;Female;1 - 3 Tahun;2;Merah dan Putih;Local;159000
+Showa;32;Female;1 - 3 Tahun;2;Merah dan Putih;Local;186000
+Showa;33;Female;1 - 3 Tahun;2;Merah dan Putih;Local;206000
+Showa;34;Female;1 - 3 Tahun;2;Merah dan Putih;Local;229000
+Showa;35;Female;1 - 3 Tahun;2;Merah dan Putih;Local;265000
+Showa;36;Female;1 - 3 Tahun;2;Merah dan Putih;Local;330000
+Showa;37;Female;1 - 3 Tahun;2;Merah dan Putih;Local;415000
+Showa;38;Female;1 - 3 Tahun;2;Merah dan Putih;Local;465000
+Showa;39;Female;1 - 3 Tahun;2;Merah dan Putih;Local;560000
+Showa;40;Female;1 - 3 Tahun;2;Merah dan Putih;Local;715000
+Showa;41;Female;Diatas 3 Tahun;2;Merah dan Putih;Local;765000
+Showa;42;Female;Diatas 3 Tahun;2;Merah dan Putih;Local;815000
+Showa;43;Female;Diatas 3 Tahun;2;Merah dan Putih;Local;865000
+Showa;44;Female;Diatas 3 Tahun;2;Merah dan Putih;Local;910000
+Showa;45;Female;Diatas 3 Tahun;2;Merah dan Putih;Local;933000
+Showa;46;Female;Diatas 3 Tahun;2;Merah dan Putih;Local;965000
+Showa;47;Female;Diatas 3 Tahun;2;Merah dan Putih;Local;1060000
+Showa;48;Female;Diatas 3 Tahun;2;Merah dan Putih;Local;1260000
+Showa;49;Female;Diatas 3 Tahun;2;Merah dan Putih;Local;1430000
+Showa;50;Female;Diatas 3 Tahun;2;Merah dan Putih;Local;1530000
+Shusui;11;Female;Dibawah 1 tahun;3;Merah, Hitam dan Putih;Local;8500
+Shusui;12;Female;Dibawah 1 tahun;3;Merah, Hitam dan Putih;Local;11000
+Shusui;13;Female;Dibawah 1 tahun;3;Merah, Hitam dan Putih;Local;13200
+Shusui;14;Female;Dibawah 1 tahun;3;Merah, Hitam dan Putih;Local;14500
+Shusui;15;Female;Dibawah 1 tahun;3;Merah, Hitam dan Putih;Local;18000
+Shusui;16;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;23200
+Shusui;17;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;27500
+Shusui;18;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;32500
+Shusui;19;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;37500
+Shusui;20;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;45000
+Shusui;21;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;55000
+Shusui;22;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;62500
+Shusui;23;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;70000
+Shusui;24;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;80000
+Shusui;25;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;95000
+Shusui;26;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;105000
+Shusui;27;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;115000
+Shusui;28;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;125000
+Shusui;29;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;135000
+Shusui;30;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;145000
+Shusui;31;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;165000
+Shusui;32;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;190000
+Shusui;33;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;210000
+Shusui;34;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;235000
+Shusui;35;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;275000
+Shusui;36;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;350000
+Shusui;37;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;425000
+Shusui;38;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;475000
+Shusui;39;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;600000
+Shusui;40;Female;1 - 3 Tahun;3;Merah, Hitam dan Putih;Local;725000
+Shusui;41;Female;Diatas 3 Tahun;3;Merah, Hitam dan Putih;Local;775000
+Shusui;42;Female;Diatas 3 Tahun;3;Merah, Hitam dan Putih;Local;825000
+Shusui;43;Female;Diatas 3 Tahun;3;Merah, Hitam dan Putih;Local;875000
+Shusui;44;Female;Diatas 3 Tahun;3;Merah, Hitam dan Putih;Local;915000
+Shusui;45;Female;Diatas 3 Tahun;3;Merah, Hitam dan Putih;Local;939000
+Shusui;46;Female;Diatas 3 Tahun;3;Merah, Hitam dan Putih;Local;975000
+Shusui;47;Female;Diatas 3 Tahun;3;Merah, Hitam dan Putih;Local;1100000
+Shusui;48;Female;Diatas 3 Tahun;3;Merah, Hitam dan Putih;Local;1300000
+Shusui;49;Female;Diatas 3 Tahun;3;Merah, Hitam dan Putih;Local;1450000
+Shusui;50;Female;Diatas 3 Tahun;3;Merah, Hitam dan Putih;Local;1550000
+Tancho;11;Female;Dibawah 1 tahun;2;Kepala Merah;Local;8700
+Tancho;12;Female;Dibawah 1 tahun;2;Kepala Merah;Local;11400
+Tancho;13;Female;Dibawah 1 tahun;2;Kepala Merah;Local;13500
+Tancho;14;Female;Dibawah 1 tahun;2;Kepala Merah;Local;14700
+Tancho;15;Female;Dibawah 1 tahun;2;Kepala Merah;Local;18400
+Tancho;16;Female;1 - 3 Tahun;2;Kepala Merah;Local;23500
+Tancho;17;Female;1 - 3 Tahun;2;Kepala Merah;Local;28500
+Tancho;18;Female;1 - 3 Tahun;2;Kepala Merah;Local;33500
+Tancho;19;Female;1 - 3 Tahun;2;Kepala Merah;Local;38500
+Tancho;20;Female;1 - 3 Tahun;2;Kepala Merah;Local;47000
+Tancho;21;Female;1 - 3 Tahun;2;Kepala Merah;Local;57000
+Tancho;22;Female;1 - 3 Tahun;2;Kepala Merah;Local;63500
+Tancho;23;Female;1 - 3 Tahun;2;Kepala Merah;Local;72000
+Tancho;24;Female;1 - 3 Tahun;2;Kepala Merah;Local;82000
+Tancho;25;Female;1 - 3 Tahun;2;Kepala Merah;Local;97000
+Tancho;26;Female;1 - 3 Tahun;2;Kepala Merah;Local;107000
+Tancho;27;Female;1 - 3 Tahun;2;Kepala Merah;Local;117000
+Tancho;28;Female;1 - 3 Tahun;2;Kepala Merah;Local;127000
+Tancho;29;Female;1 - 3 Tahun;2;Kepala Merah;Local;137000
+Tancho;30;Female;1 - 3 Tahun;2;Kepala Merah;Local;147000
+Tancho;31;Female;1 - 3 Tahun;2;Kepala Merah;Local;171000
+Tancho;32;Female;1 - 3 Tahun;2;Kepala Merah;Local;194000
+Tancho;33;Female;1 - 3 Tahun;2;Kepala Merah;Local;214000
+Tancho;34;Female;1 - 3 Tahun;2;Kepala Merah;Local;241000
+Tancho;35;Female;1 - 3 Tahun;2;Kepala Merah;Local;285000
+Tancho;36;Female;1 - 3 Tahun;2;Kepala Merah;Local;370000
+Tancho;37;Female;1 - 3 Tahun;2;Kepala Merah;Local;435000
+Tancho;38;Female;1 - 3 Tahun;2;Kepala Merah;Local;485000
+Tancho;39;Female;1 - 3 Tahun;2;Kepala Merah;Local;640000
+Tancho;40;Female;1 - 3 Tahun;2;Kepala Merah;Local;735000
+Tancho;41;Female;Diatas 3 Tahun;2;Kepala Merah;Local;785000
+Tancho;42;Female;Diatas 3 Tahun;2;Kepala Merah;Local;835000
+Tancho;43;Female;Diatas 3 Tahun;2;Kepala Merah;Local;885000
+Tancho;44;Female;Diatas 3 Tahun;2;Kepala Merah;Local;920000
+Tancho;45;Female;Diatas 3 Tahun;2;Kepala Merah;Local;945000
+Tancho;46;Female;Diatas 3 Tahun;2;Kepala Merah;Local;985000
+Tancho;47;Female;Diatas 3 Tahun;2;Kepala Merah;Local;1140000
+Tancho;48;Female;Diatas 3 Tahun;2;Kepala Merah;Local;1340000
+Tancho;49;Female;Diatas 3 Tahun;2;Kepala Merah;Local;1470000
+Tancho;50;Female;Diatas 3 Tahun;2;Kepala Merah;Local;1570000
+Utsuri;11;Female;Dibawah 1 tahun;2;Hitam dan Putih;Local;8900
+Utsuri;12;Female;Dibawah 1 tahun;2;Hitam dan Putih;Local;11800
+Utsuri;13;Female;Dibawah 1 tahun;2;Hitam dan Putih;Local;13800
+Utsuri;14;Female;Dibawah 1 tahun;2;Hitam dan Putih;Local;14900
+Utsuri;15;Female;Dibawah 1 tahun;2;Hitam dan Putih;Local;18800
+Utsuri;16;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;23800
+Utsuri;17;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;29500
+Utsuri;18;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;34500
+Utsuri;19;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;39500
+Utsuri;20;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;49000
+Utsuri;21;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;59000
+Utsuri;22;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;64500
+Utsuri;23;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;74000
+Utsuri;24;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;84000
+Utsuri;25;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;99000
+Utsuri;26;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;109000
+Utsuri;27;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;119000
+Utsuri;28;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;129000
+Utsuri;29;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;139000
+Utsuri;30;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;149000
+Utsuri;31;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;178000
+Utsuri;32;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;198000
+Utsuri;33;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;218000
+Utsuri;34;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;247000
+Utsuri;35;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;295000
+Utsuri;36;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;390000
+Utsuri;37;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;445000
+Utsuri;38;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;450000
+Utsuri;39;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;680000
+Utsuri;40;Female;1 - 3 Tahun;2;Hitam dan Putih;Local;745000
+Utsuri;41;Female;Diatas 3 Tahun;2;Hitam dan Putih;Local;795000
+Utsuri;42;Female;Diatas 3 Tahun;2;Hitam dan Putih;Local;845000
+Utsuri;43;Female;Diatas 3 Tahun;2;Hitam dan Putih;Local;895000
+Utsuri;44;Female;Diatas 3 Tahun;2;Hitam dan Putih;Local;920000
+Utsuri;45;Female;Diatas 3 Tahun;2;Hitam dan Putih;Local;948000
+Utsuri;46;Female;Diatas 3 Tahun;2;Hitam dan Putih;Local;995000
+Utsuri;47;Female;Diatas 3 Tahun;2;Hitam dan Putih;Local;1180000
+Utsuri;48;Female;Diatas 3 Tahun;2;Hitam dan Putih;Local;1380000
+Utsuri;49;Female;Diatas 3 Tahun;2;Hitam dan Putih;Local;1490000
+Utsuri;50;Female;Diatas 3 Tahun;2;Hitam dan Putih;Local;1590000
